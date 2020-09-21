@@ -119,6 +119,8 @@ a:hover {
 	.hero-section .dancing {
 		font-size: 18px;
 	}
+
+	
 	
 }
 .hero-section p{
@@ -135,7 +137,7 @@ a:hover {
 	display: inline-block;
 	cursor: pointer;
 	padding-bottom: 35px;
-	font-size:4vw;
+	font-size:2vw;
 }
 .hero-section p span:before {
 	position: absolute;
@@ -313,6 +315,9 @@ body.about-on .about-section {
 		background-image: url('../img/about2.png');
 	
 		
+	}
+	.hero-section p span{
+		font-size:4vw;
 	}
 	
 }
